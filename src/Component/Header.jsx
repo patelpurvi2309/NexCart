@@ -18,7 +18,6 @@ const Header = () => {
 
                     <ul class="nav nav-pills d-flex align-items-center">
                         <li><Link className="nav-link fw-bold" to="/">Home</Link></li>
-                        <li><Link className="nav-link fw-bold" to="/Login">Login</Link></li>
                         <li><Link className="nav-link fw-bold" to="/About">About</Link></li>
                         <li><Link className="nav-link fw-bold" to="/shop">Shop</Link></li>
                         <li><Link className="nav-link fw-bold" to="/Addtocart">
